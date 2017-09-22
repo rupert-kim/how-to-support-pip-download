@@ -1,0 +1,2 @@
+numpy
+konlpy==0.4.3
